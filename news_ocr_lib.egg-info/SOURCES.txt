@@ -1,0 +1,9 @@
+README.md
+setup.py
+news_ocr_lib/__init__.py
+news_ocr_lib/processor.py
+news_ocr_lib.egg-info/PKG-INFO
+news_ocr_lib.egg-info/SOURCES.txt
+news_ocr_lib.egg-info/dependency_links.txt
+news_ocr_lib.egg-info/requires.txt
+news_ocr_lib.egg-info/top_level.txt

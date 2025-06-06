@@ -1,0 +1,9 @@
+pytesseract>=0.3.8
+opencv-python>=4.5
+Pillow>=9.0
+matplotlib>=3.5
+numpy>=1.21
+transformers>=4.24
+torch>=1.12
+accelerate>=0.15
+bitsandbytes>=0.35
